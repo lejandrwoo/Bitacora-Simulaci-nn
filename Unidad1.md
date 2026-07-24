@@ -28,6 +28,10 @@ https://github.com/user-attachments/assets/d3289c71-5cb8-4d9a-a55a-009d252d9d34
 <img width="1152" height="648" alt="Presentación Proyecto Final Moderno Blanco y Negro" src="https://github.com/user-attachments/assets/3f05f165-36d6-4ecb-86bb-d818750e896f" />
 https://editor.p5js.org/lejandrwoo/sketches/3SThLRU5W
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/699a6112-3ef0-44a5-87fd-d201c6d6215e" />
+<img width="740" height="257" alt="image" src="https://github.com/user-attachments/assets/1b514c9f-9903-4035-82af-555757b55e91" />
+
+<img width="2048" height="1911" alt="image" src="https://github.com/user-attachments/assets/de7a1f17-4483-4b61-894b-76c16ac448c4" />
+
 <img width="1152" height="648" alt="Presentación Proyecto Final Moderno Blanco y Negro (1)" src="https://github.com/user-attachments/assets/beaa9b39-b7b9-4501-b4d4-6dc83347a962" />
 
 ## RESULTADO
