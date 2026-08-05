@@ -91,6 +91,7 @@ https://editor.p5js.org/lejandrwoo/sketches/NdWTRj8az
 <img width="972" height="687" alt="image" src="https://github.com/user-attachments/assets/1d472667-5c26-4df3-bb14-32bd5cd552bb" />
 
 Las evidencias están arriba ☝️☝️☝️
+5.0
 
 
 
