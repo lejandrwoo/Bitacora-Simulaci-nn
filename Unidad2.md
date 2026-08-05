@@ -49,6 +49,7 @@ Las aglomeraciones de la multitud, las persecuciones serpentinas y los estallido
 
 ### Una identidad reconocible entre sus diferentes resultados:
 Aunque cada ejecución genera trayectorias únicas, siempre se mantiene la misma esencia visual: el dinamismo, el ritmo de fiesta, la tensión de la multitud y el brillo de la paleta del Barrio Chino.
+
 <img width="1082" height="685" alt="image" src="https://github.com/user-attachments/assets/3efc0256-2b79-452a-a9a1-61a73b70c776" />
 
 <img width="1081" height="682" alt="image" src="https://github.com/user-attachments/assets/8a31f685-3e6b-4013-b6c2-a384be44edd0" />
