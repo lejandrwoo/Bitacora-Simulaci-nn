@@ -1,5 +1,9 @@
 ## Diseño del sistema
 Sistema de agentes autónomos (Particle Life) simulado en p5.js, donde partículas discretas en un espacio bidimensional interactúan mediante fuerzas de atracción, repulsión y dispersión física para generar comportamientos colectivos emergentes.
+<img width="547" height="365" alt="image" src="https://github.com/user-attachments/assets/4bfd9a26-6c1f-497a-83e7-7f78cba48ef6" />
+<img width="1023" height="682" alt="image" src="https://github.com/user-attachments/assets/9085682b-8967-400e-925d-895d413349bb" />
+<img width="774" height="396" alt="image" src="https://github.com/user-attachments/assets/67755d62-9822-40c9-b123-f5848b673719" />
+
 ### Posibilidad
 Aquí no hay rutas marcadas ni paredes invisibles. Es como cuando llegas a una plaza gigante en plena fiesta: tienes todo el mapa abierto para arrancar hacia donde te dé la gana, el parche es tuyo.
 
