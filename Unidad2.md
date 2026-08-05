@@ -1,15 +1,20 @@
 ## Diseño del sistema
 Sistema de agentes autónomos (Particle Life) simulado en p5.js, donde partículas discretas en un espacio bidimensional interactúan mediante fuerzas de atracción, repulsión y dispersión física para generar comportamientos colectivos emergentes.
-### Posibilidad: 
-todas las direcciones parecen posibles.
-### Tendencia: 
-una pequeña preferencia repetida termina construyendo una dirección.
-### Normalidad: 
-la mayoría de los recorridos permanece cerca de lo habitual.
-### Excepción: 
-un evento improbable permite descubrir un territorio nuevo.
-### Influencia: 
-la presencia del visitante transforma lo que puede ocurrir.
+### Posibilidad
+Aquí no hay rutas marcadas ni paredes invisibles. Es como cuando llegas a una plaza gigante en plena fiesta: tienes todo el mapa abierto para arrancar hacia donde te dé la gana, el parche es tuyo.
+
+### Tendencia
+Es cuando las ganas de unos pocos se vuelven parche de todos. Si a un color le trama seguir a otro y lo hace una y otra vez, esa pequeña bobada termina armando los desfiles, las serpientes de luces y las coreografías que le dan ritmo a la calle.
+
+### Normalidad
+Es el flow suave de la noche. La mayor parte del tiempo, la gente y las luces se mantienen en su órbita, parchando tranquilos en dinámicas que ya todos conocemos y donde se siente la energía bacana pero controlada.
+
+### Excepción
+El chispazo que rompe el video. De la nada, dos colores que no pegan se encuentran o explota un petardo festivo, y ¡pum!, las partículas salen disparadas para zonas vacías, descubriendo nuevos rincones del mapa.
+
+### Influencia
+La fiesta cambia según quién llegue. Con que solo asome un color nuevo o tú mismo metas la mano, el equilibrio se voltea por completo, cambiando lo que los demás iban a hacer y reconfigurando todo el parche o la fiesta en un segundo. 
+
 ## Tipos de partículas
 Definí 6 tipos de partículas usando una paleta de colores cálidos para diferenciarlas fácil: Carmesí Intenso ($0$), Lima Cálido ($1$), Naranja Coral ($2$), Amarillo Solar ($3$), Mandarina Intenso ($4$) y Terracota ($5$).
 ## Cantidad de partículas
