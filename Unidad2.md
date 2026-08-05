@@ -1,5 +1,15 @@
 ## Diseño del sistema
 Sistema de agentes autónomos (Particle Life) simulado en p5.js, donde partículas discretas en un espacio bidimensional interactúan mediante fuerzas de atracción, repulsión y dispersión física para generar comportamientos colectivos emergentes.
+### Posibilidad: 
+todas las direcciones parecen posibles.
+### Tendencia: 
+una pequeña preferencia repetida termina construyendo una dirección.
+### Normalidad: 
+la mayoría de los recorridos permanece cerca de lo habitual.
+### Excepción: 
+un evento improbable permite descubrir un territorio nuevo.
+### Influencia: 
+la presencia del visitante transforma lo que puede ocurrir.
 ## Tipos de partículas
 Definí 6 tipos de partículas usando una paleta de colores cálidos para diferenciarlas fácil: Carmesí Intenso ($0$), Lima Cálido ($1$), Naranja Coral ($2$), Amarillo Solar ($3$), Mandarina Intenso ($4$) y Terracota ($5$).
 ## Cantidad de partículas
@@ -67,6 +77,13 @@ https://github.com/user-attachments/assets/2fea86cb-1d62-4e83-b280-5784298f9679
 
 ## LINK PROYECTO:
 https://editor.p5js.org/lejandrwoo/sketches/NdWTRj8az
+## AUTOEVALUACIÓN
+
+<img width="972" height="687" alt="image" src="https://github.com/user-attachments/assets/1d472667-5c26-4df3-bb14-32bd5cd552bb" />
+Las evidencias están arriba ☝️☝️☝️
+
+
+
 
 
 
