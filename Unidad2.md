@@ -24,11 +24,11 @@ Definí 6 tipos de partículas usando una paleta de colores cálidos para difere
 ## Cantidad de partículas
 Configuré el sistema con $1100$ partículas en total, distribuidas según los porcentajes de población que definí para cada color.
 ## Matriz de atracción, repulsión o indiferencia
-Creé una matriz de $6 \times 6$ (BASE_MATRIX) donde cada celda $M_{ij}$ define qué siente la partícula $i$ por la $j$: valores positivos para atracción, negativos para repulsión y cercanos a cero para indiferencia.
+Creé una matriz de 6x6 (BASE_MATRIX) donde cada celda define qué siente la partícula por los valores positivos para atracción, negativos para repulsión y cercanos a cero para indiferencia.
 ## Intensidad y alcance de cada relación
-Ajusté la fuerza global con FORCE_SCALE = 0.55 multiplicada por el valor de la matriz, mientras que el alcance visual de cada especie varía individualmente entre $85\text{px}$ y $120\text{px}$ a través de su rMax.
+Ajusté la fuerza global con FORCE_SCALE = 0.55 multiplicada por el valor de la matriz, mientras que el alcance visual de cada especie varía individualmente entre 85 y 120 a través de su rMax.
 ## Distancias de interacción
-Establecí un rango de repulsión fuerte por debajo de $14\text{px}$ (R_MIN) para evitar superposiciones, una zona de atracción/repulsión gradual entre rMin y rMax, y un radio de dispersión inmediata ($16\text{px}$ a $18\text{px}$) al haber un choque cercano entre ciertos colores.
+Establecí un rango de repulsión fuerte por debajo de 14 (R_MIN) para evitar superposiciones, una zona de atracción/repulsión gradual entre rMin y rMax, y un radio de dispersión inmediata ($16\text{px}$ a $18\text{px}$) al haber un choque cercano entre ciertos colores.
 ## Fricción y velocidad máxima
 Apliqué una fricción constante de $0.86$ para desacelerar el movimiento suavemente y fijé una velocidad máxima base de $4.5$, con multiplicadores especiales para los momentos de evasión o explosión.
 ## Distribución inicial
