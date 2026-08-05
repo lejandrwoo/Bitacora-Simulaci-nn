@@ -65,6 +65,9 @@ Aunque cada ejecución genera trayectorias únicas, siempre se mantiene la misma
 
 https://github.com/user-attachments/assets/2fea86cb-1d62-4e83-b280-5784298f9679
 
+## LINK PROYECTO:
+https://editor.p5js.org/lejandrwoo/sketches/NdWTRj8az
+
 
 
 
