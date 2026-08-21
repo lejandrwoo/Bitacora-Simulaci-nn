@@ -52,5 +52,6 @@ https://github.com/user-attachments/assets/3d7dcd01-ffa3-4324-80c7-61a9d45a05fd
 
 ### Autoevaluación
 <img width="1028" height="620" alt="image" src="https://github.com/user-attachments/assets/abb7c141-9577-45d3-839c-257b8bf48e2f" />
-NOTA: 4,2
+
+## NOTA: 4,2
 
