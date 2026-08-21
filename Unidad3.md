@@ -40,9 +40,6 @@ https://github.com/user-attachments/assets/3d7dcd01-ffa3-4324-80c7-61a9d45a05fd
 
 
 
-.
-### Score Visual:
-
 
 ### Bitacora IA
 <img width="640" height="640" alt="descarga (3)" src="https://github.com/user-attachments/assets/22cf1d2a-f0ce-4d13-8446-d2f606501705" />
@@ -52,6 +49,10 @@ https://github.com/user-attachments/assets/3d7dcd01-ffa3-4324-80c7-61a9d45a05fd
 
 ## RESULTADO FINAL:
 
+
+
+
+https://github.com/user-attachments/assets/fa2c2741-db7c-4f74-94ed-45b72ab54912
 
 
 
