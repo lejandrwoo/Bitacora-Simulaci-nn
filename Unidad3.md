@@ -19,3 +19,15 @@ Los Modificadores Orgánicos (Q y E) introducen distorsiones superficiales suman
 Al accionar combinaciones simultáneas (W+Q, A+E, etc.), el sistema amplifica los parámetros generando estados híbridos.
 
 La Escultura e Inercia Axial (I, K, J, L) permite aplicar deformaciones en el eje Y y rotaciones de torsión espacial. Con el fin de simular un comportamiento viscoelástico, se integró una amortiguación inercial que retorna progresivamente la estructura a su forma base al soltar los mandos.
+
+
+### Registro de Pruebas
+
+### Score Visual
+
+### Bitacora IA
+
+### Autoevaluación
+<img width="1028" height="620" alt="image" src="https://github.com/user-attachments/assets/abb7c141-9577-45d3-839c-257b8bf48e2f" />
+NOTA: 4,2
+
