@@ -31,20 +31,17 @@ https://github.com/user-attachments/assets/2bcbb69c-7ce9-450d-8688-34c636f4bd37
 <img width="1918" height="893" alt="Captura de pantalla 2026-08-21 082418" src="https://github.com/user-attachments/assets/f80b3787-bec1-496f-9045-cc36faa7e2f1" 
 
 
-
-https://github.com/user-attachments/assets/3d7dcd01-ffa3-4324-80c7-61a9d45a05fd
-
-
-
-
   
 ### Score Visual
+
+https://github.com/user-attachments/assets/3d7dcd01-ffa3-4324-80c7-61a9d45a05fd
 
 ### Bitacora IA
 <img width="640" height="640" alt="descarga (3)" src="https://github.com/user-attachments/assets/22cf1d2a-f0ce-4d13-8446-d2f606501705" />
 <img width="736" height="1104" alt="Thermal Orchid Aesthetic 🌺 Infrared Floral Art" src="https://github.com/user-attachments/assets/b5085970-672a-451d-8916-4e25ac3f431e" />
 <img width="586" height="628" alt="descarga (4)" src="https://github.com/user-attachments/assets/0de89222-f486-45c4-bc5c-00cb72309ec6" />
 <img width="736" height="736" alt="descarga (5)" src="https://github.com/user-attachments/assets/f598869d-18b0-432e-9628-13c0aee00eb5" />
+
 ### Autoevaluación
 <img width="1028" height="620" alt="image" src="https://github.com/user-attachments/assets/abb7c141-9577-45d3-839c-257b8bf48e2f" />
 NOTA: 4,2
