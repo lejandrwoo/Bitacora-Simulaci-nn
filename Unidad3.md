@@ -7,3 +7,15 @@ En el archivo src/simulation/parameters.js gestiono el Estado y Parámetros, cen
 Para la Fuerza y Dinámica GPU, los archivos src/shaders/vertex.glsl y fragment.glsl, donde proceso las deformaciones y la física directamente en la tarjeta gráfica. En src/main.js controlo el Render y Cámara, encargándome del ciclo de animación, la perspectiva, los controles orbitales y las vistas automáticas.
 
 El control de Controles e Interacción también esta en src/main.js para mapear las combinaciones de teclas y rastrear el cursor con un raycaster en tiempo real. Por último, en src/ui/labPanel.js y src/styles.css esta la Interfaz de Usuario, que despliega el panel flotante con las instrucciones.
+
+
+### Ficha de Fuerzas y Deformaciones
+Para la Repulsión Radial Dinámica, la posición del cursor se proyecta sobre un plano 3D ($z = 0$) calculando un campo de fuerza cuadrático inverso. Al mantener presionada la barra espaciadora (Espacio), se activa una fuerza de $-12.0$ que desplaza las partículas cercanas al cursor, generando una cavidad concéntrica que colapsa suavemente al liberar la tecla.
+
+La Morfogénesis Base (WASD) opera mediante perturbaciones trigonométricas en coordenadas esféricas para alternar entre cuatro comportamientos estructurales: Dalia Organoide en W, Rosa/Crisálida helicoidal en A, Panal en S y Prisma Flora en D.
+
+Los Modificadores Orgánicos (Q y E) introducen distorsiones superficiales sumando ruido de alta frecuencia para espinas con la tecla Q, o impulsos sinusoidales globales con la tecla E. 
+
+Al accionar combinaciones simultáneas (W+Q, A+E, etc.), el sistema amplifica los parámetros generando estados híbridos.
+
+La Escultura e Inercia Axial (I, K, J, L) permite aplicar deformaciones en el eje Y y rotaciones de torsión espacial. Con el fin de simular un comportamiento viscoelástico, se integró una amortiguación inercial que retorna progresivamente la estructura a su forma base al soltar los mandos.
