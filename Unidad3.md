@@ -50,6 +50,14 @@ https://github.com/user-attachments/assets/3d7dcd01-ffa3-4324-80c7-61a9d45a05fd
 <img width="586" height="628" alt="descarga (4)" src="https://github.com/user-attachments/assets/0de89222-f486-45c4-bc5c-00cb72309ec6" />
 <img width="736" height="736" alt="descarga (5)" src="https://github.com/user-attachments/assets/f598869d-18b0-432e-9628-13c0aee00eb5" />
 
+## RESULTADO FINAL:
+
+
+
+
+
+
+
 ### Autoevaluación
 <img width="1028" height="620" alt="image" src="https://github.com/user-attachments/assets/abb7c141-9577-45d3-839c-257b8bf48e2f" />
 
