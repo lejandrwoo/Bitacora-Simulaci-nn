@@ -1,5 +1,7 @@
 ## INSTRUMENTO VIRTUAL
 
+https://lejandrwoo.github.io/alejosimulacion/
+
 La experiencia está dividida en dos modos principales: el Modo LAB, que despliega la interfaz gráfica con las instrucciones de control y el panel de monitoreo táctico, y el Modo PERFORMANCE, el cual se activa o desactiva con la tecla P.
 ### Mapa del Sistema
 En el archivo src/simulation/parameters.js gestiono el Estado y Parámetros, centralizando todos los uniforms como tiempo, morfologías, colores y fuerzas radiales. En src/simulation/createSimulation.js manejo la Integración e Infraestructura, donde creo las geometrías de buffer y asigno los materiales con shaders.
