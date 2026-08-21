@@ -28,7 +28,15 @@ https://github.com/user-attachments/assets/2bcbb69c-7ce9-450d-8688-34c636f4bd37
 
 <img width="1918" height="897" alt="pp" src="https://github.com/user-attachments/assets/8a354f09-a6cc-4caf-b76c-8aaa163dcd3f" />
 <img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/a308744e-4c1e-406f-92ac-825255c04767" />
-<img width="1918" height="893" alt="Captura de pantalla 2026-08-21 082418" src="https://github.com/user-attachments/assets/f80b3787-bec1-496f-9045-cc36faa7e2f1" />
+<img width="1918" height="893" alt="Captura de pantalla 2026-08-21 082418" src="https://github.com/user-attachments/assets/f80b3787-bec1-496f-9045-cc36faa7e2f1" 
+
+
+
+https://github.com/user-attachments/assets/3d7dcd01-ffa3-4324-80c7-61a9d45a05fd
+
+
+
+  
 ### Score Visual
 
 ### Bitacora IA
