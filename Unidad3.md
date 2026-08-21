@@ -23,6 +23,11 @@ La Escultura e Inercia Axial (I, K, J, L) permite aplicar deformaciones en el ej
 
 ### Registro de Pruebas
 
+
+https://github.com/user-attachments/assets/2bcbb69c-7ce9-450d-8688-34c636f4bd37
+
+<img width="1918" height="897" alt="pp" src="https://github.com/user-attachments/assets/8a354f09-a6cc-4caf-b76c-8aaa163dcd3f" />
+
 ### Score Visual
 
 ### Bitacora IA
