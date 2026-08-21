@@ -31,10 +31,13 @@ https://github.com/user-attachments/assets/2bcbb69c-7ce9-450d-8688-34c636f4bd37
 <img width="1918" height="893" alt="Captura de pantalla 2026-08-21 082418" src="https://github.com/user-attachments/assets/f80b3787-bec1-496f-9045-cc36faa7e2f1" 
 
 
-  
-### Score Visual
 
 https://github.com/user-attachments/assets/3d7dcd01-ffa3-4324-80c7-61a9d45a05fd
+
+
+
+### Score Visual:
+
 
 ### Bitacora IA
 <img width="640" height="640" alt="descarga (3)" src="https://github.com/user-attachments/assets/22cf1d2a-f0ce-4d13-8446-d2f606501705" />
