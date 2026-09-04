@@ -1,8 +1,7 @@
+# Unidad 4 — Oscilacion
 https://lejandrwoo.github.io/alejosimulacion/
+
 Mi idea principal fue inspirarme en la estética visual de los conciertos 3D y en la estructura interactiva de Incredibox, pero aplicando directamente el modelo de Kuramoto para gobernar el audio. De esta forma, diseñé una experiencia donde el ritmo no depende de un reloj rígido, sino de la interacción entre los mismos agentes.
-
-# Bitácora de Proceso: Unidad 4 — Oscilación y Sincronización Audiovisual
-
 ## Referentes e Inspiración
 Empecé explorando cómo llevar los comportamientos periódicos al terreno artístico. Me basé en la obra *Simple Harmonic Motion* de Memo Akten y la simulación de luciérnagas de Nicky Case para entender la sincronización emergente. Mi idea principal fue inspirarme en la estética visual de los conciertos 3D y en la estructura interactiva de *Incredibox*, pero aplicando directamente el modelo de Kuramoto para gobernar el audio. De esta forma, diseñé una experiencia donde el ritmo no depende de un reloj rígido, sino de la interacción entre los mismos agentes.
 
@@ -15,8 +14,8 @@ Mi idea principal fue transformar modelos 3D de cabezas en entidades vivas compu
 ## Problemas Encontrados y Soluciones
 Tuve varios retos técnicos en el desarrollo:
 
-* **Conos de luz invisibles:** Al poner el cono de luz como hijo de la cabeza, heredaba su escala diminuta y no se veía. Lo solucioné desvinculando el cono a la escena global y calculando su posición de forma independiente.
-* **Fallos en los Shaders:** El cono tapaba las partículas o se cortaba. Lo arreglé usando `THREE.DoubleSide`, desactivando `depthWrite` y programando un degradado vertical en GLSL con mezcla aditiva.
+* **Conos de luz invisibles:** Quise agregar unos conos de luz que iluminaran las cabezas activas pero no logre activarlas.
+* **Fallos en los Shaders:** Tuve algunos fallos con los shaders.
 * **Sincronía de Audio:** Para evitar desfases y saturaciones en la Web Audio API, calculé ventanas de compás exactas (`BAR_DURATION`) y ajusté la ganancia y el paneo dinámicamente según la cantidad de agentes activos.
 
 ## Diseño Audiovisual de los Agentes
