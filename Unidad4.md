@@ -15,7 +15,7 @@ Mi idea principal fue transformar modelos 3D de cabezas en entidades vivas compu
 Tuve varios retos técnicos en el desarrollo:
 
 * **Conos de luz invisibles:** Quise agregar unos conos de luz que iluminaran las cabezas activas pero no logre activarlas.
-* **Fallos en los Shaders:** Tuve algunos fallos con los shaders.
+* **Fallos en los Shaders:** Tuve algunos fallos con los shaders. Lo cual hizo que algunos patrones visuales o deformaciones no salieran como tenia imaginado.
 * **Sincronía de Audio:** Para evitar desfases y saturaciones en la Web Audio API, calculé ventanas de compás exactas (`BAR_DURATION`) y ajusté la ganancia y el paneo dinámicamente según la cantidad de agentes activos.
 
 ## Diseño Audiovisual de los Agentes
