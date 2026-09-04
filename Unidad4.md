@@ -1,2 +1,1 @@
-
-no lo hice juanfer perdon
+https://lejandrwoo.github.io/alejosimulacion/
