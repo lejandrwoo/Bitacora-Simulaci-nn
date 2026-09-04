@@ -27,6 +27,18 @@ Diseñé el proyecto para que realmente pudiera "tocarse" en vivo. El usuario pu
 ## Demostración y Resultado
 El modelo de Kuramoto es el corazón del proyecto; si lo quito, la experiencia pierde su cohesión orgánica. La transición entre el caos, la sincronía parcial y la estabilidad se comunica de forma evidente mediante la intensidad de la luz, el movimiento de las partículas y la armonía del sonido.
 
+## Pruebas e Inspiración:
+
+
+https://github.com/user-attachments/assets/974f4c32-f081-405d-9ee1-5a03e59058e4
+
+
+
+<img width="1232" height="897" alt="Captura de pantalla 2026-09-02 212009" src="https://github.com/user-attachments/assets/264ca64c-e95d-42cc-bdff-711aa2c73f9a" />
+<img width="400" height="400" alt="headliner-red" src="https://github.com/user-attachments/assets/5d26f0ec-5a33-43d3-9317-e9e9f8074e76" />
+<img width="439" height="512" alt="Matt Corbin Studio" src="https://github.com/user-attachments/assets/6c8c64d6-2720-4106-bb1e-43401425f169" />
+
+
 ---
 
 ## Autoevaluación (Escala 1.0 - 5.0)
