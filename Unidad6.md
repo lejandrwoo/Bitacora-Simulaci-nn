@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=lSooYPG-5Rg
 <img width="1917" height="902" alt="i" src="https://github.com/user-attachments/assets/946d5563-bffb-4fba-9b8b-9657289ed87f" />
 <img width="1917" height="896" alt="o" src="https://github.com/user-attachments/assets/1e4a2dc2-3b8b-4a81-8b95-108a11e51619" />
 
+<img width="1211" height="381" alt="image" src="https://github.com/user-attachments/assets/ab843b36-c8eb-4a0d-bc95-7d26fbbd2e6b" />
+Para esta actividad quise usar la canción Sea of Voices, de Porter Robinson, ya que su album worlds retrata es escapismo y una transformación espiritual, y lo expresa como viajar por varios mundos, eso queria representarlo visualmente, como si cada uno de mis 6 visuales representara un mundo diferente, pero todos se parecen en algo, las lineas, las formas redondas que representan algo seguro, pero que tambien tengan su peligro o que no todo es perfecto, lineas agresivas, etc, incluso quise inspirarme en uno de los espacios en la noche estrellada de Van Gogh. Aplicando todo lo de la evaluacion, considero mi nota un 5.0.
